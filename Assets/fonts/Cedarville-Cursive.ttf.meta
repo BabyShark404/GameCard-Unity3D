@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 40fed046cd829984abbed3aa39a90511
+timeCreated: 1562694088
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cedarville Cursive
+  fontNames:
+  - Cedarville Cursive
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
